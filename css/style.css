@@ -1,0 +1,454 @@
+body main section {
+  background-color: #FFFDF7; }
+  body main section .container .row .imgun {
+    margin-top: -80px !important; }
+  body main section .container .row .imgun4 {
+    margin-top: 5px !important; }
+    body main section .container .row .imgun4 .print {
+      width: 329px;
+      height: 293px; }
+  body main section .container .row .imgun0 {
+    padding-left: 95px; }
+  body main section .container .row .imgun1 {
+    padding-left: 95px;
+    margin-top: -90px; }
+  body main section .container .row .imgun2 {
+    padding-left: 95px;
+    margin-top: -160px; }
+  body main section .container .row .roup {
+    margin-top: -77px;
+    padding-left: 95px; }
+  body main section .container .row .roup1 {
+    margin-top: -77px; }
+  body main section .container .row .col-12 .timer {
+    margin-top: 106px; }
+  body main section .container .row .col-12 .text-14 {
+    margin-top: 136px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 24px; }
+  body main section .container .row .col-12 .text-15 {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 34px; }
+  body main section .container .row .col-12 .text-12 {
+    font-family: Lato;
+    font-size: 46px;
+    font-weight: bold;
+    line-height: 55px;
+    margin-top: 73px; }
+  body main section .container .row .col-lg-6 .euro {
+    margin-top: 190px !important; }
+  body main section .container .row .col-lg-6 .text-7 {
+    margin-top: 217px;
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: bold;
+    font-family: Lato; }
+  body main section .container .row .col-lg-6 .text-8 {
+    font-family: Lato;
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: bold;
+    margin-top: -15px; }
+  body main section .container .row .col-lg-6 .text-9 {
+    font-style: normal;
+    font-weight: normal;
+    margin-top: 28px;
+    font-size: 15px;
+    line-height: 24px;
+    font-family: Lato; }
+  body main section .container .row .col-lg-6 .text-10 {
+    font-family: Lato;
+    margin-top: 25px;
+    font-size: 15px;
+    line-height: 24px;
+    margin-bottom: 8px; }
+  body main section .container .row .col-lg-6 .rec {
+    margin-top: 15px;
+    width: 8px;
+    height: 12px;
+    background-color: #EC681F;
+    display: inline-block;
+    border-radius: 0px 220px 0px 0px; }
+  body main section .container .row .col-lg-6 .text-11 {
+    font-family: Lato;
+    display: inline-block;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 40px; }
+body main .section_2 {
+  background: url("../images/Rectangle 6.6.png") right top no-repeat, url("../images/Rectangle 6.7.png") left bottom no-repeat; }
+  body main .section_2 .container .row .col-lg-3 .card {
+    overflow: hidden;
+    position: relative;
+    border-radius: 5px; }
+    body main .section_2 .container .row .col-lg-3 .card .imghover {
+      padding-left: 53px;
+      transition: ease 0.5s;
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      background-color: black;
+      opacity: 0; }
+      body main .section_2 .container .row .col-lg-3 .card .imghover .text-center {
+        text-align: center !important; }
+      body main .section_2 .container .row .col-lg-3 .card .imghover .lato-bold {
+        font-family: Lato-Bold, sans-serif !important; }
+      body main .section_2 .container .row .col-lg-3 .card .imghover ul {
+        display: block;
+        list-style-type: disc;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        padding-inline-start: 40px; }
+      body main .section_2 .container .row .col-lg-3 .card .imghover li {
+        display: list-item;
+        text-align: -webkit-match-parent; }
+      body main .section_2 .container .row .col-lg-3 .card .imghover .list-unstyled {
+        padding-left: 0;
+        list-style: none; }
+      body main .section_2 .container .row .col-lg-3 .card .imghover .btn2 {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 17px;
+        color: white;
+        width: 149px !important;
+        height: 31px !important;
+        border-radius: 100px;
+        outline: none;
+        background-color: #EC681F;
+        margin-top: 57px; }
+        body main .section_2 .container .row .col-lg-3 .card .imghover .btn2 a {
+          text-decoration: none !important;
+          color: white; }
+      body main .section_2 .container .row .col-lg-3 .card .imghover .opasity {
+        padding-top: 105px;
+        padding-left: 12px; }
+      body main .section_2 .container .row .col-lg-3 .card .imghover .opasity1 {
+        padding-top: 45px;
+        padding-left: 51px; }
+      body main .section_2 .container .row .col-lg-3 .card .imghover .batafsil {
+        padding-left: 55px;
+        text-decoration: none;
+        color: #F26522; }
+    body main .section_2 .container .row .col-lg-3 .card:hover .imghover {
+      opacity: 0.8; }
+    body main .section_2 .container .row .col-lg-3 .card:hover img {
+      transform: scale(1.1); }
+    body main .section_2 .container .row .col-lg-3 .card .img {
+      transition: ease 0.5s;
+      border-radius: 5px; }
+  body main .section_2 .container .back-left {
+    padding-bottom: 120px; }
+    body main .section_2 .container .back-left .col-lg-3 .card {
+      border-radius: 5px; }
+      body main .section_2 .container .back-left .col-lg-3 .card .img {
+        border-radius: 5px; }
+  body main .section_2 .mahsulot {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 46px;
+    line-height: 55px; }
+body main .section_3 {
+  margin-top: 90px;
+  background: url("../images/Rectangle 6.8.png") right top no-repeat; }
+  body main .section_3 .container .row .coll .xizmatlar {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 46px;
+    line-height: 55px;
+    margin-top: 165px;
+    padding-left: 150px; }
+  body main .section_3 .container .row .coll .xizmat {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    padding-left: 150px; }
+  body main .section_3 .container .row .sec_3 {
+    margin-top: 144px; }
+    body main .section_3 .container .row .sec_3 .row .col-lg-4 .card:hover {
+      transform: scale(1.2); }
+    body main .section_3 .container .row .sec_3 .row .col-lg-4 .card {
+      transition: transform .3s;
+      box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.12);
+      border-radius: 4px; }
+      body main .section_3 .container .row .sec_3 .row .col-lg-4 .card .card-text {
+        margin-top: 27px;
+        padding-bottom: 16px; }
+      body main .section_3 .container .row .sec_3 .row .col-lg-4 .card .shirt {
+        margin-top: 50px;
+        margin-left: 45px;
+        width: 70px;
+        height: 70px; }
+body main .karusel {
+  background-color: #FFFFFF;
+  margin-top: 263px; }
+  body main .karusel .fon3 {
+    position: absolute;
+    left: 0%; }
+  body main .karusel .container {
+    padding-top: 100px;
+    background-color: #FFFFFF; }
+    body main .karusel .container .row .col-12 h1 {
+      font-style: normal;
+      font-weight: bold;
+      font-size: 46px;
+      line-height: 55px; }
+    body main .karusel .container .row .col-12 .owl-carousel {
+      margin-top: 56px; }
+      body main .karusel .container .row .col-12 .owl-carousel .item .card {
+        padding-top: 60px;
+        padding-bottom: 60px;
+        transition: ease 0.5s;
+        box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.12);
+        border-radius: 4px; }
+        body main .karusel .container .row .col-12 .owl-carousel .item .card img {
+          width: 150px;
+          height: 150px; }
+        body main .karusel .container .row .col-12 .owl-carousel .item .card h1 {
+          font-style: normal;
+          font-weight: bold;
+          font-size: 24px;
+          line-height: 29px; }
+        body main .karusel .container .row .col-12 .owl-carousel .item .card p {
+          font-style: normal;
+          font-weight: normal;
+          font-size: 16px;
+          line-height: 19px;
+          color: #EC681F; }
+        body main .karusel .container .row .col-12 .owl-carousel .item .card:hover {
+          box-shadow: 0px 40px 50px rgba(0, 0, 0, 0.1);
+          border-radius: 4px;
+          transform: scale(1.05); }
+body main footer {
+  background: #FFFDF7;
+  margin-top: 100px;
+  padding-top: 70px; }
+  body main footer .container .row .col-12 p {
+    margin-top: 44px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    opacity: 0.5; }
+  body main footer .container .row .col-lg-2 h5, body main footer .container .row .col-6 h5 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px; }
+  body main footer .container .row .col-lg-2 ul, body main footer .container .row .col-6 ul {
+    margin-top: 20px; }
+    body main footer .container .row .col-lg-2 ul li a, body main footer .container .row .col-6 ul li a {
+      text-decoration: none;
+      padding-top: 16px;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 14px;
+      line-height: 17px;
+      color: #131A22;
+      opacity: 0.5; }
+      body main footer .container .row .col-lg-2 ul li a:hover, body main footer .container .row .col-6 ul li a:hover {
+        color: blue; }
+  body main footer .container .row .col-lg-6 p, body main footer .container .row .col-6 p {
+    margin-top: 15px; }
+  body main footer .container .row .col-lg-6 .firsttt::before, body main footer .container .row .col-6 .firsttt::before {
+    content: url(../images/Vector.svg);
+    margin-top: 8px; }
+  body main footer .container .foot {
+    margin-top: 70px; }
+    body main footer .container .foot .dropdown button {
+      border: 1px solid #bfc3c6;
+      border-radius: 100px;
+      padding: 1px 10px; }
+      body main footer .container .foot .dropdown button:focus {
+        box-shadow: none; }
+    body main footer .container .foot .col-lg-2 a i, body main footer .container .foot .col-6 a i {
+      color: #131A22;
+      opacity: 0.2;
+      width: 32px;
+      height: 32px; }
+      body main footer .container .foot .col-lg-2 a i:hover, body main footer .container .foot .col-6 a i:hover {
+        color: #EC681F;
+        opacity: 1; }
+    body main footer .container .foot .col-lg-3 p, body main footer .container .foot .col-6 p {
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 17px; }
+body main .sec_4 {
+  margin-top: 143px;
+  background: url("../images/Rectangle 6.6.png") right top no-repeat; }
+  body main .sec_4 .container .row .col-lg-6 {
+    margin-bottom: 191px; }
+    body main .sec_4 .container .row .col-lg-6 .xizmatlar {
+      margin-top: 95px;
+      font-family: Lato;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 46px;
+      line-height: 55px;
+      padding-left: 150px; }
+    body main .sec_4 .container .row .col-lg-6 .xizmat {
+      font-family: Lato;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 24px;
+      padding-left: 150px; }
+
+header {
+  position: relative;
+  position: relative;
+  background-image: url("../images/rec_6.png");
+  background-repeat: no-repeat;
+  background-position: right top; }
+  header .container .btn1 {
+    margin-bottom: 171px;
+    font-size: 20px;
+    line-height: 24px;
+    color: white;
+    width: 228px !important;
+    height: 46px !important;
+    border-radius: 100px;
+    outline: none;
+    background-color: #EC681F;
+    margin-top: 31px; }
+    header .container .btn1 a {
+      text-decoration: none !important;
+      color: white; }
+  header .container .row .header-content {
+    margin-top: 145px; }
+    header .container .row .header-content .text-1 {
+      font-size: 42px;
+      font-weight: 300 !important;
+      line-height: 53px; }
+    header .container .row .header-content .text-2 {
+      line-height: 53px;
+      font-size: 42px;
+      font-weight: bold !important; }
+    header .container .row .header-content .text-5 {
+      font-family: Lato;
+      margin-left: 100px; }
+    header .container .row .header-content .text-4 {
+      margin-left: 25px;
+      margin-right: 24px;
+      margin-top: -20px;
+      font-size: 27px;
+      font-weight: bold;
+      font-family: Lato; }
+    header .container .row .header-content .text-6 {
+      margin-top: -20px;
+      font-size: 27px;
+      font-weight: bold;
+      margin-left: 35px;
+      font-family: Lato; }
+  header .container .hed {
+    margin-top: 39px !important; }
+  header .container .form-control {
+    padding-left: 10px !important;
+    padding-top: 1px; }
+  header .container .nav-link {
+    color: black !important;
+    font-weight: normal !important; }
+  header .container .navbar .nav-link {
+    font-size: 14px; }
+  header .container .navbar .btn {
+    font-size: 14px;
+    width: 85px;
+    height: 25px;
+    border-radius: 40px;
+    border: 1px solid silver; }
+
+@media only screen and (max-width: 600px) {
+  body main .sec_4 {
+    margin-top: 10px; }
+    body main .sec_4 .container .row .col-lg-6 {
+      margin-bottom: 5px; }
+      body main .sec_4 .container .row .col-lg-6 .xizmatlar {
+        padding-left: 2px;
+        margin-top: 30px;
+        font-size: 30px; }
+      body main .sec_4 .container .row .col-lg-6 .xizmat {
+        margin-top: -10px;
+        padding-left: 2px; }
+  body main .section_3 .container .row .coll .xizmatlar {
+    padding-left: 2px;
+    margin-top: 15px;
+    font-size: 30px; }
+  body main .section_3 .container .row .coll .xizmat {
+    margin-top: -10px;
+    padding-left: 2px; }
+  body main .section_3 .container .row .sec_3 {
+    margin-top: 5px; }
+  body main .section_2 .container .row .col-lg-3 .img {
+    width: 100%;
+    height: 140px; }
+  body main section .container .row .text-17 {
+    margin-top: -50px; }
+  body main section .container .row .imgun {
+    margin-top: 15px !important; }
+  body main section .container .row .roup {
+    margin-top: -20px;
+    padding-left: 10px; }
+  body main section .container .row .imgun0 {
+    padding-left: 10px; }
+  body main section .container .row .imgun2 {
+    padding-left: 10px;
+    margin-top: 5px; }
+  body main section .container .row .imgun1 {
+    padding-left: 10px;
+    margin-top: 15px; }
+  body main section .container .row .roup1 {
+    margin-top: -20px; }
+  body main section .container .row .col-12 .text-14 {
+    margin-top: 15px; }
+  body main section .container .row .col-12 .text-12 {
+    margin-top: 15px; }
+  body main section .container .row .col-12 .timer {
+    margin-left: 0;
+    margin-top: 0px;
+    width: 350px;
+    height: 310px; }
+  body main section .container .row .col-lg-6 .euro {
+    text-align: center;
+    margin-top: 13px !important;
+    width: 360px;
+    height: 500px; }
+  body main section .container .row .col-lg-6 .text-7 {
+    margin-top: 2px; }
+  body main section .container .row .col-lg-6 .text-9 {
+    margin-top: 5px; }
+
+  .container .row .header-content {
+    margin-top: 15px !important; }
+    .container .row .header-content .btn1 {
+      margin-left: 70px;
+      margin-top: 10px;
+      margin-bottom: 30px !important; }
+    .container .row .header-content .text-1 {
+      font-size: 27px !important; }
+    .container .row .header-content .text-2 {
+      font-size: 27px !important; }
+
+  .navv {
+    padding-left: 200px !important; }
+
+  .hed {
+    margin-top: 1px !important; }
+
+  .logo {
+    margin-top: 40px !important; } }
+
+/*# sourceMappingURL=style.css.map */
